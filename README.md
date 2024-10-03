@@ -1,4 +1,4 @@
-# Accenture-North-America-Job-Simulation-SocialBuzz
+# Social-Buzz-Content-Analysis – Accenture-Job-Simulation
 ### Project Overview
 This project was part of an Accenture job simulation where I analyzed social media content from **Social Buzz**, a platform with 500 million active users, generating 36.5 million posts annually. The objective was to identify the top 5 most popular content categories and provide data-driven recommendations to enhance user engagement.
 
